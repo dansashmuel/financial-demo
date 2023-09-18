@@ -10,7 +10,7 @@ import os
 import sys
 
 # insert path of this script in syspath so custom modules will be found
-sys.path.insert(1, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(1, os.path.dirname(os.path.abspath(Users/ogc2020/Documents/GitHub/financial-demo/run_rasa_shell_with_ide.py)))
 
 #
 # This is exactly like issuing the command:
